@@ -1,1 +1,1 @@
-print("ovo je novi file joj")
+print("ovo je nije to")
